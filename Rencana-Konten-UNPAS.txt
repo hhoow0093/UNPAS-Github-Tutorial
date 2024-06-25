@@ -2,7 +2,11 @@ RENCANA KONTEN UNPAS
 1. JavaScript
 - ES6
 - FrameWork JavaScript
+  * Vue JS
+  * React JS
 - Algorithm and Data structures
 2. Framework
+  * Laravel
 3. Interview
 4. Vlog
+5. Python
