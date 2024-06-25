@@ -2,6 +2,7 @@ RENCANA KONTEN UNPAS
 1. JavaScript
 - ES6
 - FrameWork JavaScript
+- Algorithm and Data structures
 2. Framework
 3. Interview
 4. Vlog
