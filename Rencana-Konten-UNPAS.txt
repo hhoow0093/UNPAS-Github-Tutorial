@@ -4,6 +4,7 @@ RENCANA KONTEN UNPAS
 - FrameWork JavaScript
   * Vue JS
   * React JS
+  * Vite JS
 - Algorithm and Data structures
 2. Framework
   * Laravel
